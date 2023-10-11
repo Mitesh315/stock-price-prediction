@@ -1,5 +1,6 @@
 import os
 import sys
+sys.path.append('/workspaces/stock-price-prediction')
 from src.exception import CustomException
 from src.logger import logging
 import pandas as pd
