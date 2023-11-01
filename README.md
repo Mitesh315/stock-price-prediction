@@ -1,8 +1,6 @@
 # Stock Price Prediction
 The Stock price prediction is a Machine learning model based project which helps us to predict the future price of stocks.
 
-Creating a well-structured README.md file is crucial for your project, as it helps users and collaborators understand your Stock Price Prediction using Machine Learning project. Below is a template you can use as a starting point. Be sure to customize it with your project-specific information.
-
 ---
 
 ## Table of Contents
